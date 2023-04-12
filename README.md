@@ -5,11 +5,9 @@
 
 <p> :seedling: I am <b>Vishal Kumar</b>, prefinal year Computer Science and Engineering student at National Institute of Technology, Sikkim . I love coding and problem solving and I am interested to work as Software developer. I am a technical team member at <b>WDC</b> ( Web development Cell, NIT sikkim) and I have worked on full stack web development. I am skilled in <b>React JS</b>, <b>NodeJs</b>, MongoDB, RESTfull API’s and  PHP. </p>
 
-<img style="border-radius: 50px 20px;" align="right" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="center" width="300" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-here&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-here" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-here" alt="vishal-here" /></a> </p>
 
 - 🌱 I’m currently learning **App development**
 
@@ -40,7 +38,9 @@
 
 <h3> :man_technologist: My Github stats : :point_down: </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-here&show_icons=true&locale=en&layout=compact" alt="vishal-here" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal-here" alt="vishal-here" /></a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishal-here&show_icons=true&locale=en&layout=compact" alt="vishal-here" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishal-here&show_icons=true&locale=en" alt="vishal-here" /></p>
 
